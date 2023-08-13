@@ -1,0 +1,7 @@
+{
+  "name": "EVA1BPena",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
